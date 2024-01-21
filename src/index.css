@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'monaspace';
+  src: url('./fonts/MonaspaceNeon-Bold.woff');
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'monaspace';
+}
